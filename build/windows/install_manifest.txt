@@ -1,0 +1,9 @@
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/assets/images/flutter__logo.webp
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

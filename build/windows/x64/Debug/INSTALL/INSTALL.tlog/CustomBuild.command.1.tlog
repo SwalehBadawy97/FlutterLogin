@@ -1,0 +1,10 @@
+^C:\USERS\FAYYADH\DOCUMENTS\DART\LOGIN_APP\BUILD\WINDOWS\CMAKEFILES\EB3DAFEE2D75A4BF60DC563599C1812A\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

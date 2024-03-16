@@ -1,0 +1,10 @@
+^C:\USERS\FAYYADH\DOCUMENTS\DART\LOGIN_APP\BUILD\WINDOWS\CMAKEFILES\EB3DAFEE2D75A4BF60DC563599C1812A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Fayyadh/Documents/Dart/login_app/windows -BC:/Users/Fayyadh/Documents/Dart/login_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Fayyadh/Documents/Dart/login_app/build/windows/login_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
